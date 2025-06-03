@@ -8,8 +8,10 @@
 ## 🛠️ Technical Skills
 **Programming Languages**
   - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-  - R (ggplot2, dplyr, tidyr)
   - SQL (PostgreSQL, MySQL)
+  - R (ggplot2, dplyr, tidyr)
+  - MATLAB (Statistics and Machine Learning Toolbox, Data Analysis, Optimization)
+  - LaTex
 
 **Data Visualization & BI Tools**
 - Tableau
@@ -29,28 +31,29 @@
 - Git/GitHub
 - Google Analytics
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 ### 📈 Customer Churn Prediction
 Repository Link \
 Built a machine learning model to predict customer churn with 85% accuracy using telecom data
 
 *Technologies:* Python, Scikit-learn, Pandas, XGBoost \
 *Key Achievement:* Identified top 5 factors driving customer churn \
-*Business Impact:* Recommendations could reduce churn by 15%
+*Business Impact:* Recommendations could reduce churn by 15% -->
 
 ## 🎯 What I'm Currently Working On
 
 🔍 Job Search: Actively seeking entry-level Data Analyst/Data Scientist positions \
 📚 Continuous Learning: Deep learning with TensorFlow, cloud platforms (AWS/GCP) \
 💼 Portfolio Development: Building more real-world data projects \
-🏆 Certifications: Working towards [Google Data Analytics/AWS/etc.]
+🏆 Certifications: Data Science Professional - Data Camp
 
 ## 🏅 Education & Achievements
 
-🎓 [Your Degree] - [University Name] | GPA: [X.XX] (if strong) \
-📜 Relevant Coursework: Statistics, Machine Learning, Database Systems, Data Visualization \
-🏆 [Any relevant awards, dean's list, etc.] \
-📊 Capstone Project: [Brief description of thesis/final project]
+🎓 M.S. Mathematics - University of British Columbia | GPA: 4.0 \
+🎓 B.S. Applied Mathematics - Northwestern University | GPA: 3.7 \
+📜 Relevant Coursework: Probability & Statistics (stochastic processes, brownian motion, etc.), Mathematical Modeling, Constrained Optimization, Data Visualization \
+🏆 National Service Award (UBC), Faculty of Science Graduate Award (UBC), 6x Dean’s List Honors (Northwestern) \
+📊 Masters Thesis: A Mathematical Model for the Buckling of Arctic Ice Shelves
 
 ## 📫 Let's Connect!
 I'm always excited to discuss data science, collaborate on projects, or explore new opportunities!
