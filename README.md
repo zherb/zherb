@@ -1,5 +1,5 @@
 # Hi, I'm Zofia 👋
-*Recent Data Science Graduate | Passionate about turning data into insights* 
+*Recent Mathematics Graduate | Passionate about turning data into insights* 
 
 **🎓 M.S. in Mathematics from The University of British Columbia, B.S. in Applied Mathematics from Northwestern University** \
 **📊 Seeking opportunities in Data Science and Data Analytics** \
